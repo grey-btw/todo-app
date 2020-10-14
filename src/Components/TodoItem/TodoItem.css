@@ -1,0 +1,34 @@
+.todoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 15px;
+    width: 100%;
+}
+.todoItem--left {
+    display: flex;
+    align-items: flex-start;
+}
+.todoItem--checkbox {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    margin-top: 2px;
+    transition: all 0.25s ease;
+}
+.stroke {
+    text-decoration: line-through;
+    font-weight: 600;
+}
+p.todoItem--content {
+    max-width: 490px;
+    transition: all .5s ease;
+    word-wrap: break-word;
+    white-space:pre-wrap;
+    font-size: 1.2rem;
+}
+
+.todoItem--trashIcon {
+    color: rgb(189, 189, 189);
+    cursor: pointer;
+}
