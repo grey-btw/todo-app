@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://grey-btw.github.io/todo-app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/4vgMGRjOBtY43umljOos">
       Solution
     </a>
     <span> | </span>
@@ -34,8 +34,9 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot 2020-10-14 235533](https://user-images.githubusercontent.com/50090727/96020911-ef626700-0e78-11eb-8466-692a27daeba9.png)
+![Screenshot 2020-10-14 235556](https://user-images.githubusercontent.com/50090727/96020913-f12c2a80-0e78-11eb-88bc-6a18e5412311.png)
+![Screenshot 2020-10-14 235612](https://user-images.githubusercontent.com/50090727/96020918-f1c4c100-0e78-11eb-99a1-a46aa8c65481.png)
 
 - You can add a new todo and remove it when it completed
 - Toggle between the filter as well as All, Active, Completed
@@ -69,4 +70,4 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [grey-btw](https://github.com/grey-btw)
